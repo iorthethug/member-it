@@ -1,0 +1,13 @@
+desktop app
+
+fonts
+bold,italic,underline,line-through
+transparency
+color theme
+resize
+save text
+create multiple member-its
+create new
+delete
+scroll
+
